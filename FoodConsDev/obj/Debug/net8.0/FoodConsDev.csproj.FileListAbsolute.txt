@@ -28,3 +28,4 @@ C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\refi
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\FoodConsDev.pdb
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\FoodConsDev.genruntimeconfig.cache
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\ref\FoodConsDev.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\FoodConsDev.sourcelink.json
