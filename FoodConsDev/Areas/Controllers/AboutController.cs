@@ -1,6 +1,6 @@
 ﻿namespace FoodConsDev.Areas.Controllers
 {
-    public class AboutController : Controller
+    public class AboutController 
     {
     }
 }
