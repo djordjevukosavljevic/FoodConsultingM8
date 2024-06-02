@@ -1,0 +1,16 @@
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Services.deps.json
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Services.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Services.pdb
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Data.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Data.pdb
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.csproj.AssemblyReference.cache
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.AssemblyInfoInputs.cache
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.AssemblyInfo.cs
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.csproj.CoreCompileInputs.cache
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.sourcelink.json
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.csproj.CopyComplete
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\refint\FoodConsluting.Services.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.pdb
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\ref\FoodConsluting.Services.dll

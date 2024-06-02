@@ -1,0 +1,13 @@
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\bin\Debug\net8.0\FoodConsluting.Repositories.deps.json
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\bin\Debug\net8.0\FoodConsluting.Repositories.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\bin\Debug\net8.0\FoodConsluting.Repositories.pdb
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.csproj.AssemblyReference.cache
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.AssemblyInfoInputs.cache
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.AssemblyInfo.cs
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.sourcelink.json
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\refint\FoodConsluting.Repositories.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\FoodConsluting.Repositories.pdb
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Repositories\obj\Debug\net8.0\ref\FoodConsluting.Repositories.dll
