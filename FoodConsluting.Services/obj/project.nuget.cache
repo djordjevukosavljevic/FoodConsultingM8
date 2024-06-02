@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "arZ1bnrNchiWgucMBT5g/QwxGU4dbE9b25LE/Uy4z8EOPtHjuq7torAz1D1tSqKjOUrZlO2znaoWTziJ/eMAvA==",
+  "dgSpecHash": "pl+sxbHqi2IdkU58JgRiE7dJVYHx0pt0ZCfUxrd47RwypgGtwDzCfGPGr2xi3i4E0PNI5nfq59WB177w5OpPSA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Services\\FoodConsluting.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zorzezorz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\zorzezorz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

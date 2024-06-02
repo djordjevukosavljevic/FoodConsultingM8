@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodConsDev", "FoodConsDev.csproj", "{E6F0F5A3-FE4E-432D-9576-EAA799D0B7E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodConsDev", "FoodConsDev.csproj", "{E6F0F5A3-FE4E-432D-9576-EAA799D0B7E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodConsluting.Data", "..\FoodConsluting.Data\FoodConsluting.Data.csproj", "{9A824578-6233-4886-A731-14141C1DC843}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodConsluting.Data", "..\FoodConsluting.Data\FoodConsluting.Data.csproj", "{9A824578-6233-4886-A731-14141C1DC843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodConsluting.Models", "..\FoodConsluting.Models\FoodConsluting.Models.csproj", "{5EFFB71B-1E2C-4F1B-87F6-B2790ADB2041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodConsluting.Models", "..\FoodConsluting.Models\FoodConsluting.Models.csproj", "{5EFFB71B-1E2C-4F1B-87F6-B2790ADB2041}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodConsluting.Services", "..\FoodConsluting.Services\FoodConsluting.Services.csproj", "{621AF835-569F-40FC-A8BD-83D0A3839CA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodConsluting.Services", "..\FoodConsluting.Services\FoodConsluting.Services.csproj", "{621AF835-569F-40FC-A8BD-83D0A3839CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodConsluting.Repositories", "..\FoodConsluting.Repositories\FoodConsluting.Repositories.csproj", "{4D1BBE1E-352C-45D2-82DC-C724582DFD79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodConsluting.Repositories", "..\FoodConsluting.Repositories\FoodConsluting.Repositories.csproj", "{4D1BBE1E-352C-45D2-82DC-C724582DFD79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
