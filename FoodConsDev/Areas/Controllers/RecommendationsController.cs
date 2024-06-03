@@ -2,7 +2,6 @@
 
 namespace FoodConsDev.Areas.Controllers
 {
-     [Route("Areas/[controller]/[action]/{id?}")]
     public class RecommendationsController : Controller
     {
         private readonly ILogger<RecommendationsController> _logger;

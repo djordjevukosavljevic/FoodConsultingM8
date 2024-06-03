@@ -2,11 +2,12 @@ using System.Buffers.Text;
 
 namespace FoodConsluting.Repositories
 {
-    public interface IBaseRepository<TEntity> where TEntity : Base
+    public interface IBaseRepository<TEntity> // where TEntity : Base
     {
         TEntity GetOne(int id);
     }
 
+/*
     public class BaseRepo BaseRepository<TEntity> : IBaseRepository<TEntity> where TEntity : Base
     {
         private readonly IConfiguration configuration;
@@ -19,4 +20,5 @@ namespace FoodConsluting.Repositories
             
         }
     }
+    */
 }

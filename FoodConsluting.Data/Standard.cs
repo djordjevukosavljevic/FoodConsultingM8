@@ -4,11 +4,8 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace FoodConsluting.Data
 {
     [Table("standards")]
-    public class Standard
+    public class Standard : Base
     {
-        [Key]
-        [Column("id")]
-        public int Id { get; set; }
         [Column("name")]
         public string Name { get; set; }
         [Column("Price")]

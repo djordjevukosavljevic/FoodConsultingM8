@@ -4,19 +4,20 @@ namespace FoodConsDev.Areas.Controllers
 {
     public class StandardController : Controller
     {
-        private readonly ILogger<StandardController> _logger;
 
+/*
+        private readonly StadardService
         
 
-        public StandardController(ILogger<StandardController> logger)
+        public StandardController()
         {
 
-            _logger = logger;
         }
 
         public IActionResult Index()
         {
             return View();
         }
+        */
     }
 }

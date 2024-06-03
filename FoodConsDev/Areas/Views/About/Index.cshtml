@@ -7,7 +7,13 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/FoodConsDev.styles.css" asp-append-version="true" />
-   
+   <style>
+        body {
+        src: C:\Users\zorzezorz\Desktop\food;
+        background-image:url("C:\Users\zorzezorz\Desktop\food");
+        background-repeat: no-repeat;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -58,6 +64,8 @@
                     electronic typesetting, remaining essentially unchanged. It was popularised in
                     the 1960s with the release of Letraset sheets containing Lorem
                 </label>
+                <button id="lob" type="reset" style="color: red;">Reset page</button>
+                <img src="C:\Users\zorzezorz\Desktop\food">
             </div>
                 <label>
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
@@ -102,6 +110,11 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     <!-- await RenderSectionAsync("Scripts", required: false) -->
+    <script>
+        document.getElementById("lob").onclick = function(){
+            location.reload();
+        }
+    </script>
 </body>
 <footer class="border-top footer text-muted">
     <div class="container">
