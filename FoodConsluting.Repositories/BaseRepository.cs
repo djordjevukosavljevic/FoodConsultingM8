@@ -9,10 +9,11 @@ namespace FoodConsluting.Repositories
     public interface IBaseRepository<TEntity> 
     {
         TEntity GetOne(int id);
-        
+
+        List<TEntity> GetAll();        
     }
 
-    public class BaseRepository
+    public class BaseRepository<TEntity>
     {
         private readonly IConfiguration configuration;
         public string connectionString;
@@ -25,5 +26,12 @@ namespace FoodConsluting.Repositories
             connection = new MySqlConnection(connectionString);
 
         }        
+
+
+        /*
+        public TEntity GetOne(int id){
+
+        }
+        */
     }
 }
