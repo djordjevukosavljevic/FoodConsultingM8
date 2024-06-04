@@ -14,7 +14,7 @@ namespace FoodConsluting.Repositories
 
         public string coonectionString;
 
-        public MySqlConnectio connection;
+        public MySqlConnection connection;
 
         public BaseRepository(IConfiguration configuration){
             
