@@ -1,14 +1,23 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace FoodConsluting.Data{
+namespace FoodConsluting.Data
+{
 
     public class DataContext : DbContext
     {
 
-         public DataContext(DbContextOptions options) : base(options){
+        public DataContext(DbContextOptions options) : base(options)
+        {
 
-         }
+        }
+   
+        DbSet<Standard> Standards { get; set; }
 
-      
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Standard>();
+        }
+
+
     }
 }
