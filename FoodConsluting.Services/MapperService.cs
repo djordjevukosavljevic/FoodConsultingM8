@@ -10,6 +10,6 @@ namespace FoodConsluting.Services
 {
     public class MapperService : Profile
     {
-        CreateMap<Standard, StandardModel>().ReverseMap();
+        
     }
 }
