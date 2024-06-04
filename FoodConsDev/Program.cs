@@ -1,5 +1,4 @@
 using FoodConsluting.Services;
-using FoodConsluting.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,7 +9,7 @@ var app = builder.Build();
 
 
 
-builder.Services.AddAutoMapper(typeof(MapperService));
+//builder.Services.AddAutoMapper(typeof(MapperService));
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
