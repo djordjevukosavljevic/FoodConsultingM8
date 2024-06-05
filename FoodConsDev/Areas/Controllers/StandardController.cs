@@ -1,23 +1,24 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using FoodConsluting.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace FoodConsDev.Areas.Controllers
 {
     public class StandardController : Controller
     {
 
-        /*
-        private readonly StadardService
+        private readonly StandardService standardService;
         
 
-        public StandardController()
+        public StandardController(StandardService standardService)
         {
-
+            this.standardService = standardService;
         }
 
         public IActionResult Index()
         {
+            
             return View();
         }
-        */
+    
     }
 }
