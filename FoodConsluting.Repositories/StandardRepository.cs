@@ -2,7 +2,7 @@
 {
     public interface IStandardRepository
     {
-
+        
     }
 
     public class StandardRepository : IStandardRepository 
