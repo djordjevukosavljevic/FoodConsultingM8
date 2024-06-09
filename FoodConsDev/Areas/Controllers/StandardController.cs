@@ -5,12 +5,13 @@ namespace FoodConsDev.Areas.Controllers
 {
     public class StandardController : Controller
     {
-
+        private readonly ILogger logger;
         private readonly StandardService standardService;
         
 
-        public StandardController(StandardService standardService)
+        public StandardController(ILogger logger,StandardService standardService)
         {
+            this.logger = logger;
             this.standardService = standardService;
         }
 
