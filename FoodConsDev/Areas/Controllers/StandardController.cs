@@ -7,7 +7,7 @@ namespace FoodConsDev.Areas.Controllers
     {
         private readonly ILogger logger;
         private readonly StandardService standardService;
-        
+
 
         public StandardController(ILogger logger,StandardService standardService)
         {
@@ -17,9 +17,10 @@ namespace FoodConsDev.Areas.Controllers
 
         public IActionResult Index()
         {
-            
-            return View();
+            var resultFromDb = standardService.GetAll();
+            return View(resultFromDb);
         }
+    
     
     }
 }
