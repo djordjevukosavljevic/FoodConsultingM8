@@ -14,7 +14,6 @@ namespace FoodConsluting.Data
         public DateTime ImplementTime{ get; set; }
         [Column("description")]
         public string Description { get; set; }
-    
         public List<Standard> Standards { get; set; }
     
     }

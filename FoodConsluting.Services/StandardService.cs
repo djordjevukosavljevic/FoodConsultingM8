@@ -7,7 +7,7 @@ namespace FoodConsluting.Services
 {
     public interface IStandardService 
     {
-        public Standard GetById(int id);
+        // private readonly IStandardRepository standardRepository;
     
         public List<Standard> GetAll();
     }
@@ -15,13 +15,15 @@ namespace FoodConsluting.Services
     public class StandardService : IStandardService
     {
 
+
         public Standard GetById(int id)
         {
             throw new NotImplementedException();
         }
+        
         public List<Standard> GetAll()
         {
-            throw new NotImplementedException();   
+            throw new NotImplementedException();
         }
     }
 }

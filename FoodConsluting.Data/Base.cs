@@ -8,7 +8,7 @@ public class Base{
     public int Id { get; set; }
         
     [Column("date_created_at")]
-    public DateTime DateCreatedAt { get; set; }
+    public DateTime DateCreatedAt { get; set; } 
     
     [Column("date_updated_at")]
     public DateTime DateUpdatedAt { get; set; }

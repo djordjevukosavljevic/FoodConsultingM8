@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\js\\testt.js",
+      "PackagePath": "staticwebassets\\js\\testt.js"
+    },
+    {
       "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
