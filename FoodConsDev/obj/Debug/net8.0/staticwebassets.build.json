@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7ZfS+zgZv2X4e/s4Yt7gRtjPKyhrlPgNhCNgGxwLQYc=",
+  "Hash": "Zt6aoVwBj22+Hx90BVgc+JeBWNKhwtmwf464LgZWolw=",
   "Source": "FoodConsDev",
   "BasePath": "_content/FoodConsDev",
   "Mode": "Default",
@@ -91,25 +91,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\js\\testt.js",
-      "SourceId": "FoodConsDev",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\",
-      "BasePath": "_content/FoodConsDev",
-      "RelativePath": "js/testt.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\testt.js"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
