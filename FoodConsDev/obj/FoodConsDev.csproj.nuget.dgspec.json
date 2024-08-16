@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj": {}
+    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj": {
+    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
+        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj",
         "projectName": "FoodConsDev",
-        "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
+        "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj",
         "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\obj\\",
+        "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -41,6 +42,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -95,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -120,6 +126,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,6 +139,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -183,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -208,6 +220,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -224,6 +237,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -275,7 +293,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

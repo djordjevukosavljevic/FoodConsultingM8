@@ -9,8 +9,8 @@ C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.AssemblyInfo.cs
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.csproj.CoreCompileInputs.cache
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.sourcelink.json
-C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.csproj.CopyComplete
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.dll
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\refint\FoodConsluting.Services.dll
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.pdb
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\ref\FoodConsluting.Services.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodCons.D42360AC.Up2Date

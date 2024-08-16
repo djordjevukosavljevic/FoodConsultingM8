@@ -63,4 +63,4 @@ C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\bin\Debug\net8.0\Food
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\bin\Debug\net8.0\FoodConsluting.Services.pdb
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\bin\Debug\net8.0\FoodConsluting.Data.pdb
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\FoodConsDev.csproj.AssemblyReference.cache
-C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\FoodConsDev.csproj.CopyComplete
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev\obj\Debug\net8.0\FoodCons.DF5EAA2A.Up2Date

@@ -432,7 +432,10 @@
           "MySql.Data": "8.4.0"
         },
         "runtime": {
-          "FoodConsluting.Data.dll": {}
+          "FoodConsluting.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "FoodConsluting.Services/1.0.0": {
@@ -447,7 +450,10 @@
           "MySql.Data": "8.4.0"
         },
         "runtime": {
-          "FoodConsluting.Services.dll": {}
+          "FoodConsluting.Services.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
