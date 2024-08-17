@@ -1,4 +1,5 @@
-﻿
+﻿//using FoodConsluting.Data;
+
 namespace FoodConsluting.Repositories
 {
     public interface IStandardRepository 
