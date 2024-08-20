@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zt6aoVwBj22+Hx90BVgc+JeBWNKhwtmwf464LgZWolw=",
+  "Hash": "6AF1Xz6hFh/g+Evzt1FdkkbPkYc2Rf7OpEyavTP9ur0=",
   "Source": "FoodConsDev",
   "BasePath": "_content/FoodConsDev",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FoodConsDev.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\css\\bckg.css",
+      "SourceId": "FoodConsDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\",
+      "BasePath": "_content/FoodConsDev",
+      "RelativePath": "css/bckg.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bckg.css"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\css\\site.css",

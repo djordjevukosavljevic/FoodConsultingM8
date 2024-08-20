@@ -1,0 +1,6 @@
+body {
+    background-image: url('~/Content/Images/fruit.jpg');
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
