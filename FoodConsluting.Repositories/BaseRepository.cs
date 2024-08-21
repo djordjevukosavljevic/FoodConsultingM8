@@ -9,7 +9,6 @@ namespace FoodConsluting.Repositories
     public interface IBaseRepository<TEntity> 
     {
         TEntity GetOne(int id);
-
         List<TEntity> GetAll();        
     }
 
