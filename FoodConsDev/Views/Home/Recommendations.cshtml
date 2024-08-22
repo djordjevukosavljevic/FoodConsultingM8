@@ -4,7 +4,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - FoodConsulting</title>
+    
+<script type="text/javascript" src="emailFormCheck.javascript"></script>
+
+</script>
 </head>
+
 <body>
     <header>
     </header>
@@ -63,13 +68,13 @@
                    <button type="submit"><a href="tel:+381694644224">Call us</a></button><br><br>
                    Website: <a href="FoodConsulting.com">FoodConsulting.rs</a><br>
                    FoodConsulting doo – Setting the Standard for Agricultural Excellence.</label>
-                <div>
-                <label>
-                    If you have any questions contact us below:
-                </label><br/>
-                <input type="email" placeholder="Enter your email address..."/><br/>
-                <textarea placeholder="Your question...."></textarea><br/>
-                </div>
+                
+                <form id="myForm">
+                <input type="email" id="emailField" placeholder="Enter your email" required />
+                <br/><textarea placeholder="How can we help?"></textarea>
+                <br/><button type="submit">Submit</button>
+    </form>
+            
             </div>
         </div>
     </div>
