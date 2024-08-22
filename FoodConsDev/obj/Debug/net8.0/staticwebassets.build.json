@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pzwujajDvGURclH1/k6/b+6IndkKxbOAg7R9B0+OyxQ=",
+  "Hash": "3FMjkZo2A2t2LoZKCHXykRMR2peIy3EpQ72pgPNncec=",
   "Source": "FoodConsDev",
   "BasePath": "_content/FoodConsDev",
   "Mode": "Default",
@@ -110,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\wwwroot\\js\\emailFormCheck.js",
+      "SourceId": "FoodConsDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\wwwroot\\",
+      "BasePath": "_content/FoodConsDev",
+      "RelativePath": "js/emailFormCheck.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\emailFormCheck.js"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\wwwroot\\js\\emailFormCheck.js",
+      "PackagePath": "staticwebassets\\js\\emailFormCheck.js"
+    },
+    {
       "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
