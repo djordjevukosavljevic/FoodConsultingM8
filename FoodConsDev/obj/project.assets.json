@@ -2692,11 +2692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj",
+      "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
       "projectName": "FoodConsDev",
-      "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj",
+      "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
       "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\obj\\",
+      "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
