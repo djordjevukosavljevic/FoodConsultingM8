@@ -7,8 +7,8 @@ namespace FoodConsluting.Repositories
         
     }
 
-    public class StandardRepository 
-    {
+    public class StandardRepository : IStandardRepository
+    { 
         public StandardRepository() 
         {
             
