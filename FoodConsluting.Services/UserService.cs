@@ -1,6 +1,6 @@
 using AutoMapper;
 using FoodConsluting.Data;
-using FoodConsluting.Repositories;
+using FoodConsluting.Repositories; 
 namespace FoodConsluting.Services
 {
     public interface IUserService{

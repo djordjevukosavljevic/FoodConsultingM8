@@ -1,11 +1,10 @@
-using FoodConsluting.Data;
 namespace FoodConsluting.Repositories{
-    public interface IUserRepository : IBaseRepository<User>
+    public interface IUserRepository
     {
 
     } 
 
-    public class UserRepository  : UserRepositoryBase<User>, IUserRepository
+    public class UserRepository  
     {
 
 
