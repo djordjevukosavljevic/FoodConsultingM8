@@ -1,10 +1,11 @@
 
+using FoodConsluting.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FoodConsDev.Areas.Controllers
 {
-    [Route("/User/{Action}/{id}")]
+    [Route("/Administration/[controller]/[action]/{id}")]
     public class UserController : Controller{
-        
+        private readonly IUserService userService;
     }
 }
