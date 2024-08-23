@@ -16,6 +16,10 @@ namespace FoodConsluting.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Standard>();
+            modelBuilder.Entity<User>();
+
+
+
         }
 
 
