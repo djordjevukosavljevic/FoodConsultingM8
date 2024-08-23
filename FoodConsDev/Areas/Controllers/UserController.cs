@@ -10,11 +10,13 @@ namespace FoodConsDev.Areas.Controllers
         // Dependency injection
         private readonly IUserService userService;
     
-        public UserController(IUserService userService){
+        public UserController(IUserService userService)
+        {
             this.userService = userService;
         }
 
-        public IActionResult Index(){
+        public IActionResult Index()
+        {
             return View();            
         }
     }
