@@ -20,3 +20,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+#HomepageBody{
+  background-image: url("/Content/Images/fruit.jpg");
+  margin: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
