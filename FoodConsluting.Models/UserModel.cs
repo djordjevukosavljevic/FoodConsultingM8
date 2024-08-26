@@ -5,8 +5,9 @@ namespace FoodConsluting.Models{
         public string Name { get; set;}
         public string Lastname{get;set;}
         public string Email { get; set;}
-        public DateTime? CreatedDate { get;}
-        // public Image image{ get; set;}
+        public string Password{get;set;}
+        
+
 
     }
 }

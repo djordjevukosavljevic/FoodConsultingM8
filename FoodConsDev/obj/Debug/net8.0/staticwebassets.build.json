@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qDBrg0DgmkVO6hF4QEBaQmElkmaZxZjqMTT42ZTdYOA=",
+  "Hash": "GQSy5kZEmBbIxb3n7s06VMMxc8IvUOKolrWfjLXoA6M=",
   "Source": "FoodConsDev",
   "BasePath": "_content/FoodConsDev",
   "Mode": "Default",
@@ -129,25 +129,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\emailFormCheck.js"
-    },
-    {
-      "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\js\\readmoreBtn.js",
-      "SourceId": "FoodConsDev",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\",
-      "BasePath": "_content/FoodConsDev",
-      "RelativePath": "js/readmoreBtn.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\readmoreBtn.js"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",

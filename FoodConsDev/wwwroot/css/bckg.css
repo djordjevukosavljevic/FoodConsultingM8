@@ -1,7 +1,7 @@
 body {
-    background-image: url("FoodConsultingDev/Content/Images/fruit.jpg");
+    background-image: url("FoodConsulting/Content/Images/fruit.jpg");
     margin: 0;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center center;
 }

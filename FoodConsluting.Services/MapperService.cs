@@ -8,6 +8,7 @@ namespace FoodConsluting.Services
 
         public MapperService(){
             //CreateMap<Standard, StandardModel>().ReverseMap();
+            
         }
     }
 }

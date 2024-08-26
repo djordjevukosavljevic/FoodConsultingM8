@@ -1,11 +1,15 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace FoodConsluting.Data{
-    public class User{
+    [Table("users")]
+    public class User  : Base
+    {
         public string Name { get; set;}
         public string Email { get; set;}
 
         public string Password{ get; set;}
 
-        
+
         public enum USER_TYPE{
             ADMIN, PREMIUM_USER, USER
         }
