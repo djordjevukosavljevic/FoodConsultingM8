@@ -1,12 +1,38 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
-<div class="text-center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript">
+		$(document).ready(function(){
+			$(".start").click(function(){
+				$("p").animate({width:"100%"}).animate({fontSize: "150px"}).animate({borderWidth: "0px"});
+			});
+		});
+	</script>
+    <style type="text/css">
+		p {
+			width: 150px;
+			padding: 40px 0;
+			font: bold 30 times;
+			text-align: center;
+			background: #00000062;
+			border: 1px solid #ffffff00;
+			box-sizing: border-box;
+		}
+    </style>
+</head>
+<body>
+<div class="text-center" class="start">
     <h1 class="display-7">FoodConsulting engineering doo</h1>
     <h2 class="display-7">we provide newest solutions for your products to be top tier</h2>
 </div>
-<div style="font-style: oblique;">
+<div>
     <label>
         At FoodConsulting, 
         our Agriculture Standards Engineer service is dedicated 
@@ -16,4 +42,9 @@
         technical expertise to ensure your farming practices are efficient,
         sustainable, and compliant with industry regulations.
     </label>
+    <p>Hi there</p>
+    <button type="submit" class="start">Click me</button>
 </div>
+</body>
+</html>
+
