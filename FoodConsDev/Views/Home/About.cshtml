@@ -5,7 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - FoodConsulting</title>
     <script type="text/javascript" src="emailFormCheck.javascript" asp-append-version="true"></script>
-
+    <script type="text/javascript">
+        document.getElementById("sendEmailBtn").onclick = function(){
+            window.alert("Message sent to FoodConsulting team...");
+            console.log("Test 1");
+        }
+    </script>
 </head>
 <body style=" min-height: 400px; margin-bottom: 100px; clear: both;">
     <header>
@@ -72,9 +77,9 @@
             </div>
         </div>
         <form id="myForm" style="height: fit-content;">
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" style="width: 300px;">
             <br><textarea class="form-control is-invalid" id="validationTextarea" placeholder="Required example textarea" required=""></textarea>
-            <button type="button" class="btn btn-secondary">Submit question</button>
+            <button type="button" id="sendEmailBtn" class="btn btn-secondary">Submit</button>
         </form>   
         
     </div>
