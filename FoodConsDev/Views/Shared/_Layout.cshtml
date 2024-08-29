@@ -9,6 +9,29 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/FoodConsDev.styles.css" asp-append-version="true" />
     <link rel="stylesheet" type="text/css" href="@Url.Content("~/css/bckg.css")" asp-append-version="true" />
+    <script src="~/lib/jquery/3.5.1/jquery.min.js" asp-add-nonce="true"></script>
+    <script type="">
+    $(".DrT").click(function () {
+        debugger;
+        var target = this.getAttribute("data-target");
+        var x = document.getElementById(target);
+        if (x.style.display == "none")
+        {
+            x.style.display = "block";
+        }
+        else
+        {
+            x.style.display = "none";
+        }
+    });
+    $(document).click(function (e) {
+        var Target = e.target.className;
+        if (Target != "DrT")
+        {
+            $("ul.dropdown-menu").css("display","none");
+        }k
+    });
+    </script>
 </head>
 <body>
     <header>
@@ -19,7 +42,7 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div style="color: aqua;" class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a id="homeBtn" class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
@@ -48,7 +71,8 @@
                     </ul>
                 </div>
             </div>
-        </nav>
+        </nav> 
+      
     </header>
     <div class="container">
         <main role="main" class="pb-3">
