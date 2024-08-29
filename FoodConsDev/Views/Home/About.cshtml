@@ -4,12 +4,15 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - FoodConsulting</title>
+    <script type="text/javascript" src="emailFormCheck.javascript" asp-append-version="true"></script>
+
 </head>
 <body>
     <header>
     </header>
     <div class="container">
             <div>
+
                 <h1 class="text-center">About FoodConsulting and our mission</h1>
                 <h2 class="text-center">What we want to achieve?</h2>
                 <label>
@@ -20,38 +23,15 @@
                     electronic typesetting, remaining essentially unchanged. It was popularised in
                     the 1960s with the release of Letraset sheets containing Lorem
                 </label>
+               
             </div>
-                <label>
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in
-                    the 1960s with the release of Letraset sheets containing Lorem
-                </label>
-            <div>
+             <form id="myForm">
+                <input type="email" id="emailField" placeholder="Enter your email" required />
+                <br/><textarea placeholder="How can we help?"></textarea>
+                <br/><button type="submit">Submit</button>
+            </form>
+         
            
-            </div>
-            <div>
-                <label style="">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in
-                    the 1960s with the release of Letraset sheets containing Lorem
-                </label>    
-            </div>
-            <div>
-                <label style="">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-                    when an unknown printer took a galley of type and scrambled it to make a type
-                    specimen book. It has survived not only five centuries, but also the leap into
-                    electronic typesetting, remaining essentially unchanged. It was popularised in
-                    the 1960s with the release of Letraset sheets containing Lorem
-                </label>    
-            </div>
     </div>
         @*
             // To see what we gonna do about that

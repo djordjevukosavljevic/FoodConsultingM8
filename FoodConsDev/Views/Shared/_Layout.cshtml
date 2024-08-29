@@ -55,7 +55,10 @@
             @RenderBody()
         </main>
     </div>
-    <footer class="border-top footer text-muted">
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+<footer class="border-top footer text-muted">
                 <div class="copyright text-center text-sm text-muted text-lg-start">
                     ©
                     <script>
@@ -66,6 +69,4 @@
                     for a better web.
                 </div>
     </footer>
-    @await RenderSectionAsync("Scripts", required: false)
-</body>
 </html>
