@@ -8,7 +8,7 @@ namespace FoodConsDev.Areas.Controllers
     public class UserController : Controller{
 
         // Dependency injection
-        private readonly IUserService userService;
+        private readonly IUserService userService; 
     
         public UserController(IUserService userService)
         {
