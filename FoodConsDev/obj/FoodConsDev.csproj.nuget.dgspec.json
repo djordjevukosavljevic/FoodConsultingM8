@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FooDConsDev\\FoodConsDev.csproj": {}
+    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FooDConsDev\\FoodConsDev.csproj": {
+    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FooDConsDev\\FoodConsDev.csproj",
+        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
         "projectName": "FoodConsDev",
-        "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FooDConsDev\\FoodConsDev.csproj",
+        "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
         "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FooDConsDev\\obj\\",
+        "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
