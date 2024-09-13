@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FoodConsDev.Areas.Controllers
 {
-    [Route("/[controller]/[action]/{id}")]
+    [Route("/standard")]
     public class StandardController : Controller
     {
         //private readonly ILogger logger;
