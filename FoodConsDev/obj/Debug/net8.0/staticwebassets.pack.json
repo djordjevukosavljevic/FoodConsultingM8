@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\bckg.css"
     },
     {
+      "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\css\\home.cs",
+      "PackagePath": "staticwebassets\\css\\home.cs"
+    },
+    {
       "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -19,6 +23,10 @@
     {
       "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\js\\emailFormCheck.js",
       "PackagePath": "staticwebassets\\js\\emailFormCheck.js"
+    },
+    {
+      "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
     },
     {
       "Id": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\lib\\bootstrap\\LICENSE",

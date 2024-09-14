@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "GQSy5kZEmBbIxb3n7s06VMMxc8IvUOKolrWfjLXoA6M=",
+  "Hash": "khYLEzJ5SUCPNs222nYCXFWjQR+MaYtayWe4QBpf+OM=",
   "Source": "FoodConsDev",
   "BasePath": "_content/FoodConsDev",
   "Mode": "Default",
@@ -74,6 +74,25 @@
       "OriginalItemSpec": "wwwroot\\css\\bckg.css"
     },
     {
+      "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\css\\home.cs",
+      "SourceId": "FoodConsDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\",
+      "BasePath": "_content/FoodConsDev",
+      "RelativePath": "css/home.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\home.cs"
+    },
+    {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\css\\site.css",
       "SourceId": "FoodConsDev",
       "SourceType": "Discovered",
@@ -129,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\emailFormCheck.js"
+    },
+    {
+      "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\js\\home.js",
+      "SourceId": "FoodConsDev",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\",
+      "BasePath": "_content/FoodConsDev",
+      "RelativePath": "js/home.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\home.js"
     },
     {
       "Identity": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
