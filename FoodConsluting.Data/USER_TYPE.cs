@@ -1,0 +1,4 @@
+public enum USER_TYPE
+{
+    ADMINISTRATOR, USER_ADMIN
+}
