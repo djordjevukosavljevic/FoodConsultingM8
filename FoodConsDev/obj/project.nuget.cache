@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zNBuEe17W7Q=",
+  "dgSpecHash": "bHO8p+L6Kjs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\FoodConsDev.csproj",
+  "projectFilePath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodCOnsDev\\FoodConsDev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zorzezorz\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\zorzezorz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
