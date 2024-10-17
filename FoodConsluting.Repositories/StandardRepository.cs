@@ -1,17 +1,17 @@
-﻿//using FoodConsluting.Data;
-
+﻿
 namespace FoodConsluting.Repositories
 {
-    public interface IStandardRepository 
+    public interface IStandardRepository
     {
-        
+
+
     }
 
-    public class StandardRepository : IStandardRepository
-    { 
-        public StandardRepository() 
+    public class StandardRepository
+    {
+        public StandardRepository()
         {
-            
+
         }
     }
 }
