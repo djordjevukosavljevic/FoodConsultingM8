@@ -17,4 +17,11 @@
     <PackageReference Include="MySql.Data" Version="8.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FoodConsDev\FoodConsDev.csproj" />
+    <ProjectReference Include="..\FoodConsluting.Data\FoodConsluting.Data.csproj" />
+    <ProjectReference Include="..\FoodConsluting.Models\FoodConsluting.Models.csproj" />
+    <ProjectReference Include="..\FoodConsluting.Services\FoodConsluting.Services.csproj" />
+  </ItemGroup>
+
 </Project>
