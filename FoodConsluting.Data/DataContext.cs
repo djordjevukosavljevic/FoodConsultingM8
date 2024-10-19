@@ -12,12 +12,13 @@ namespace FoodConsluting.Data
         }
    
         DbSet<Standard> Standards { get; set; }
+        DbSet<Review> Reviews {get; set;}
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Standard>();
             modelBuilder.Entity<User>();
-
+            modelBuilder.Entity<Review>();
 
 
         }
