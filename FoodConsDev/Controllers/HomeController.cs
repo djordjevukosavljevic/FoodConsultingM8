@@ -19,15 +19,22 @@ namespace FoodConsDev.Controllers
         {
             return View();
         }
-        public IActionResult About(){
+        public IActionResult About()
+        {
             return View();
         }
-        public IActionResult Recommendations(){
+        public IActionResult Recommendations()
+        {
             return View();
         }
-        public IActionResult More(){
+        public IActionResult More()
+        {
             return View();
         }
-        
+
+        public IActionResult Gallery()
+        {
+            return View();
+        }
     }
 }

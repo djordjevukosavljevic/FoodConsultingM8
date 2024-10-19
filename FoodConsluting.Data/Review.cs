@@ -7,7 +7,7 @@ namespace FoodConsluting.Data
     [Table("review")]
     public class Review
     {
-        [Column("review_id")]
+        [Column("id")]
         public int Id { get; set; }
         [Column("company_name")]
         public string CompanyName { get; set; }

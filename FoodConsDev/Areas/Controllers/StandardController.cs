@@ -6,13 +6,13 @@ namespace FoodConsDev.Areas.Controllers
     [Route("/standard")]
     public class StandardController : Controller
     {
-        //private readonly ILogger logger;
+        private readonly ILogger logger;
         private readonly StandardService standardService;
 
 
         public StandardController(StandardService standardService)
         {
-            // this.logger = logger;
+            this.logger = logger;
             this.standardService = standardService;
         }
 

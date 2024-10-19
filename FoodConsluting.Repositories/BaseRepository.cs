@@ -1,18 +1,20 @@
+// using FoodConsluting.Data;
 using System.Buffers.Text;
 using AutoMapper;
 using Dapper;
 using Microsoft.Extensions.Configuration;
 using MySql.Data.MySqlClient;
 
+
 namespace FoodConsluting.Repositories
 {
     public interface IBaseRepository<TEntity> 
     {
-        TEntity GetOne(int id);
-        List<TEntity> GetAll();        
+        List<TEntity> GetAll();     
+        TEntity GetOne();   
     }
 
-    public class BaseRepository<TEntity>  
+    public class BaseRepository<TEntity>  : IBaseRepository<TEntity> where TEntity : Base
     {
         private readonly IConfiguration configuration;
         public string connectionString;
@@ -24,12 +26,16 @@ namespace FoodConsluting.Repositories
             connectionString = configuration.GetConnectionString("DefaultConnection");
             connection = new MySqlConnection(connectionString);
 
-        }        
-
-        /*
-        public TEntity GetOne(int id){
-
         }
-        */
+
+        public List<TEntity> GetAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public TEntity GetOne()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
