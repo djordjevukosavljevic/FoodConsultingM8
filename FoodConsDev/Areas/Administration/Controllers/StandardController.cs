@@ -9,15 +9,10 @@ namespace FoodConsDev.Areas.Controllers
     public class StandardController : Controller
     {
         private readonly IStandardService standardService;
-
-
         public StandardController(IStandardService standardService)
         {
             this.standardService = standardService;
         }
-
-
-
         public IActionResult Standards()
         {
             var resultFromDb = standardService.GetAll();
