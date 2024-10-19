@@ -5,7 +5,7 @@ namespace FoodConsluting.Data
 {
 
     [Table("review")]
-    public class Review
+    public class Review : Base
     {
         [Column("id")]
         public int Id { get; set; }

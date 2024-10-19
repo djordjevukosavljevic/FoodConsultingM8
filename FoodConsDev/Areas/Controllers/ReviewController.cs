@@ -1,4 +1,6 @@
-namespace FoodConsDev
+// using FoodConsultingDev.Services;
+
+namespace FoodConsDev.Areas.Controllers
 {
     // [Route("/reveiw")]
     public class ReviewController

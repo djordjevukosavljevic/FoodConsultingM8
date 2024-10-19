@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{621AF835-569F-40FC-A8BD-83D0A3839CA7}|..\\FoodConsluting.Services\\FoodConsluting.Services.csproj|c:\\users\\zorzezorz\\documents\\foodconsultingdev\\foodconsluting.services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D1BBE1E-352C-45D2-82DC-C724582DFD79}|..\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj|c:\\users\\zorzezorz\\documents\\foodconsultingdev\\foodconsluting.repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A824578-6233-4886-A731-14141C1DC843}|..\\FoodConsluting.Data\\FoodConsluting.Data.csproj|c:\\users\\zorzezorz\\documents\\foodconsultingdev\\foodconsluting.data\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4D1BBE1E-352C-45D2-82DC-C724582DFD79}|..\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj|c:\\users\\zorzezorz\\documents\\foodconsultingdev\\foodconsluting.repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 226,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,7 +42,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Data\\Review.cs",
+              "RelativeDocumentMoniker": "..\\FoodConsluting.Data\\Review.cs",
+              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Data\\Review.cs",
+              "RelativeToolTip": "..\\FoodConsluting.Data\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:21:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "..\\FoodConsluting.Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "..\\FoodConsluting.Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:20:35.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "..\\FoodConsluting.Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Services\\ReviewService.cs",
+              "RelativeToolTip": "..\\FoodConsluting.Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:14:29.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -41,25 +89,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T09:54:15.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T09:54:15.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Repositories\\BaseRepository.cs",
               "RelativeDocumentMoniker": "..\\FoodConsluting.Repositories\\BaseRepository.cs",
               "ToolTip": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Repositories\\BaseRepository.cs",
               "RelativeToolTip": "..\\FoodConsluting.Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T09:14:15.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsDev\\Areas\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Areas\\Controllers\\AboutController.cs",

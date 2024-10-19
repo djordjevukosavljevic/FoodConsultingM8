@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FoodConsluting.Data\FoodConsluting.Data.csproj" />
+    <ProjectReference Include="..\FoodConsluting.Repositories\FoodConsluting.Repositories.csproj" />
   </ItemGroup>
 
 </Project>
