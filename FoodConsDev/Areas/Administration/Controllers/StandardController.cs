@@ -3,25 +3,29 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace FoodConsDev.Areas.Controllers
 {
-    [Route("/standard")]
+
+    [Area("Administration")]
+    [Route("/Administration/[action]/")]    
     public class StandardController : Controller
     {
-        private readonly ILogger logger;
-        private readonly StandardService standardService;
+        private readonly IStandardService standardService;
 
 
-        public StandardController(StandardService standardService)
+        public StandardController(IStandardService standardService)
         {
-            this.logger = logger;
             this.standardService = standardService;
         }
 
-        public IActionResult Index()
+
+
+        public IActionResult Standards()
         {
             var resultFromDb = standardService.GetAll();
             return View(resultFromDb);
         }
-    
+
+
+
     
     }
 }
