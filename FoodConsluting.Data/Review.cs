@@ -5,6 +5,5 @@ namespace FoodConsluting.Data
         public int Id { get; set;}
         public User user{ get; set;}
         public String Text{ get; set;}
-        public bool isActive{get;set;}
     }    
 }
