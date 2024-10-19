@@ -12,5 +12,10 @@ namespace FoodConsDev.Areas.Controllers
         //     this.service = service;
         // }
 
+        // public IActionResult Index()
+        // {
+        //     return View();
+        // }
+
     }
 }

@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsDev
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsDev/Areas/Views/Review.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlld3NcUmV2aWV3LmNzaHRtbA==
+[C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsDev/Areas/Administration/Views/Review.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcUmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsDev/Areas/Views/Standards.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVmlld3NcU3RhbmRhcmRzLmNzaHRtbA==
+[C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsDev/Areas/Administration/Views/Standards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3RhbmRhcmRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsDev/Views/Home/About.cshtml]

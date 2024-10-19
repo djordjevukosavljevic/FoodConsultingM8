@@ -14,3 +14,5 @@ C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\refint\FoodConsluting.Services.dll
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\FoodConsluting.Services.pdb
 C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\obj\Debug\net8.0\ref\FoodConsluting.Services.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Repositories.dll
+C:\Users\zorzezorz\Documents\FoodConsultingDev\FoodConsluting.Services\bin\Debug\net8.0\FoodConsluting.Repositories.pdb
