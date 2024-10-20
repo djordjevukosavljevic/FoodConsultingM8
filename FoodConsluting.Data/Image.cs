@@ -1,12 +1,15 @@
-namespace FoodConsluting.Data{
-    public class Image{
+using System.ComponentModel.DataAnnotations.Schema;
 
-        
-        public string Name{ get; set; }
-
-        public string Url{ get; set; }
-
-
-        public double Size{get;set;}
+namespace FoodConsluting.Data
+{
+    [Table("image")]
+    public class Image : Base
+    {
+        [Column("name")]
+        public string Name { get; set; }
+        [Column("path")]
+        public string Path { get; set; }
+        [Column("size")]
+        public double Size { get; set; }
     }
 }
