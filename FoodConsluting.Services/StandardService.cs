@@ -9,7 +9,6 @@ namespace FoodConsluting.Services
 {
     public interface IStandardService  
     {
-
     
         public List<Standard> GetAll();
     }

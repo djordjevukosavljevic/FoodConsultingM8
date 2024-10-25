@@ -1,7 +1,7 @@
 using FoodConsluting.Repositories;
 using FoodConsluting.Data;
 using Microsoft.Extensions.Configuration;
-namespace ReviewRepository
+namespace FoodConsluting.Repositories
 {
     public interface IReviewRepository : IBaseRepository<Review>
     {

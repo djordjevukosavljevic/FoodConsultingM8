@@ -5,9 +5,9 @@ using ReviewRepository;
 
 namespace FoodConsluting.Services
 {
-    public interface IReviewService : IBaseRepository<Review>
+    public interface IReviewServic
     {
-
+        
     }
 
     public class ReviewService
