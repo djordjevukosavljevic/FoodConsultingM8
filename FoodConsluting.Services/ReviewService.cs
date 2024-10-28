@@ -1,7 +1,6 @@
 using FoodConsluting.Data;
 using AutoMapper;
 using FoodConsluting.Repositories;
-using ReviewRepository;
 
 namespace FoodConsluting.Services
 {

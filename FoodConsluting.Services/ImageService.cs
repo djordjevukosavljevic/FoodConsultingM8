@@ -12,7 +12,8 @@ namespace FoodConsluting.Repositories
     {
         public ImageRepository(IConfiguration configuration) : base(configuration)
         {
-
+            
         }
+
     }
 }
