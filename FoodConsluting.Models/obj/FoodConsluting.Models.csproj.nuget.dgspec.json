@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Models\\FoodConsluting.Models.csproj": {}
+    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/FoodConsluting.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Models\\FoodConsluting.Models.csproj": {
+    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/FoodConsluting.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Models\\FoodConsluting.Models.csproj",
+        "projectUniqueName": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/FoodConsluting.Models.csproj",
         "projectName": "FoodConsluting.Models",
-        "projectPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Models\\FoodConsluting.Models.csproj",
-        "packagesPath": "C:\\Users\\zorzezorz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zorzezorz\\Documents\\FoodConsultingDev\\FoodConsluting.Models\\obj\\",
+        "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/FoodConsluting.Models.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Models/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zorzezorz\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -94,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

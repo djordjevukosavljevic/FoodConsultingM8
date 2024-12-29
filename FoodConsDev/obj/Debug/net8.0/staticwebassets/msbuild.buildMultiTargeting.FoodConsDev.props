@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\FoodConsDev.props" />
+  <Import Project="../build/FoodConsDev.props" />
 </Project>
