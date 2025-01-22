@@ -24,3 +24,16 @@ C:/Users/zorzezorz/Documents/FoodConsultingDev/FoodConsluting.Data/obj/Debug/net
 /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/obj/Debug/net8.0/refint/FoodConsluting.Data.dll
 /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/obj/Debug/net8.0/FoodConsluting.Data.pdb
 /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/obj/Debug/net8.0/ref/FoodConsluting.Data.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\bin\Debug\net8.0\FoodConsluting.Data.deps.json
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\bin\Debug\net8.0\FoodConsluting.Data.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\bin\Debug\net8.0\FoodConsluting.Data.pdb
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.csproj.AssemblyReference.cache
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.AssemblyInfoInputs.cache
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.AssemblyInfo.cs
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.csproj.CoreCompileInputs.cache
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.sourcelink.json
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\refint\FoodConsluting.Data.dll
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\FoodConsluting.Data.pdb
+C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsluting.Data\obj\Debug\net8.0\ref\FoodConsluting.Data.dll

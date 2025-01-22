@@ -9,63 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodConsDev
 build_property.RootNamespace = FoodConsDev
-build_property.ProjectDir = /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/
+build_property.ProjectDir = C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsDev\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev
+build_property.MSBuildProjectDirectory = C:\Users\djord\Documents\Dev\FoodConsultingM8\FoodConsDev
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Review.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5pc3RyYXRpb24vVmlld3MvUmV2aWV3LmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Review.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcUmV2aWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Standards.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW5pc3RyYXRpb24vVmlld3MvU3RhbmRhcmRzLmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Areas/Administration/Views/Standards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5pc3RyYXRpb25cVmlld3NcU3RhbmRhcmRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Gallery.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HYWxsZXJ5LmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Gallery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYWxsZXJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/More.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Nb3JlLmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/More.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb3JlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Recommendations.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SZWNvbW1lbmRhdGlvbnMuY3NodG1s
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Home/Recommendations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWNvbW1lbmRhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-avelohvhcw
+[C:/Users/djord/Documents/Dev/FoodConsultingM8/FoodConsDev/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ntxs5kzvt6

@@ -1,33 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/FoodConsDev.csproj": {}
+    "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsDev\\FoodConsDev.csproj": {}
   },
   "projects": {
-    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/FoodConsDev.csproj": {
+    "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsDev\\FoodConsDev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/FoodConsDev.csproj",
+        "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsDev\\FoodConsDev.csproj",
         "projectName": "FoodConsDev",
-        "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/FoodConsDev.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsDev/obj/",
+        "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsDev\\FoodConsDev.csproj",
+        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsDev\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Services/FoodConsluting.Services.csproj": {
-                "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Services/FoodConsluting.Services.csproj"
+              "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Services\\FoodConsluting.Services.csproj": {
+                "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Services\\FoodConsluting.Services.csproj"
               }
             }
           }
@@ -41,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -95,26 +102,32 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/FoodConsluting.Data.csproj": {
+    "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/FoodConsluting.Data.csproj",
+        "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj",
         "projectName": "FoodConsluting.Data",
-        "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/FoodConsluting.Data.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/obj/",
+        "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj",
+        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,7 +145,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -183,34 +197,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Repositories/FoodConsluting.Repositories.csproj": {
+    "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Repositories/FoodConsluting.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj",
         "projectName": "FoodConsluting.Repositories",
-        "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Repositories/FoodConsluting.Repositories.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Repositories/obj/",
+        "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj",
+        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/FoodConsluting.Data.csproj": {
-                "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Data/FoodConsluting.Data.csproj"
+              "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj": {
+                "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Data\\FoodConsluting.Data.csproj"
               }
             }
           }
@@ -224,7 +244,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -279,34 +300,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Services/FoodConsluting.Services.csproj": {
+    "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Services\\FoodConsluting.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Services/FoodConsluting.Services.csproj",
+        "projectUniqueName": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Services\\FoodConsluting.Services.csproj",
         "projectName": "FoodConsluting.Services",
-        "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Services/FoodConsluting.Services.csproj",
-        "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Services/obj/",
+        "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Services\\FoodConsluting.Services.csproj",
+        "packagesPath": "C:\\Users\\djord\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/root/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\djord\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Repositories/FoodConsluting.Repositories.csproj": {
-                "projectPath": "/home/zorzezorz/Documents/Dev/FoodConsultingM8/FoodConsluting.Repositories/FoodConsluting.Repositories.csproj"
+              "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj": {
+                "projectPath": "C:\\Users\\djord\\Documents\\Dev\\FoodConsultingM8\\FoodConsluting.Repositories\\FoodConsluting.Repositories.csproj"
               }
             }
           }
@@ -320,7 +347,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -371,7 +399,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
