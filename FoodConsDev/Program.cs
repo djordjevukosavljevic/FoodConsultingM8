@@ -1,3 +1,4 @@
+using FoodConsluting.Repositories;
 using FoodConsluting.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +7,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();     
 
 var app = builder.Build();
+
+// For building reposs
+// Not sure if this will work...
+// builder.Services.AddSingleton<IStandardRepository, StandardRepository>();
 
 
 
