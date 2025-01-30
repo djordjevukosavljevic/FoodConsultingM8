@@ -1,5 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Org.BouncyCastle.Asn1.Cms;
 
 namespace FoodConsluting.Data
 {
@@ -8,10 +9,10 @@ namespace FoodConsluting.Data
     {
         [Column("name")]
         public string Name { get; set; }
-        [Column("Price")]
+        [Column("price")]
         public double Price { get; set; }
         [Column("implementTime")]
-        public DateTime ImplementTime{ get; set; }
+        public Time ImplementTime{ get; set; }
         [Column("description")]
         public string Description { get; set; }
         public List<Standard> Standards { get; set; }
