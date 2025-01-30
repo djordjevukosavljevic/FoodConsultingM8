@@ -5,7 +5,7 @@ namespace FoodConsDev.Areas.Controllers
 {
 
     [Area("Administration")]
-    [Route("/Administration/[action]/")]    
+    [Route("/Administration/[action]/{id}")]    
     public class StandardController : Controller
     {
         private readonly IStandardService standardService;
@@ -15,8 +15,7 @@ namespace FoodConsDev.Areas.Controllers
         }
         public IActionResult Standards()
         {
-            var resultFromDb = standardService.GetAll();
-            return View(resultFromDb);
+            return View();
         }
 
 
