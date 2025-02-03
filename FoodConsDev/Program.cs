@@ -1,3 +1,4 @@
+using Dapper;
 using FoodConsluting.Repositories;
 using FoodConsluting.Services;
 
@@ -8,9 +9,12 @@ builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
+// Newest self changes 30.1.2025
+SimpleCRUD.SetDialect(SimpleCRUD.Dialect.MySQL);
+
 // For building reposs
 // Not sure if this will work...
-// builder.Services.AddSingleton<IStandardRepository, StandardRepository>();
+builder.Services.AddSingleton<IStandardRepository, StandardRepository>();
 
 
 
